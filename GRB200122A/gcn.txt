@@ -1,0 +1,8 @@
+We observed the field of GRB 200122A (E.Sonbas et al., GCN 26844) using the 
+Xinglong-2.16m equipped with  the BFOSC camera. Observations 
+started at 22:14:52 UT on 2020-01-22 (i.e., 20h34min after the BAT 
+trigger), and 5*200 s R-band frames have been obtained. 
+
+No optical transient is detected in the Swift XRT's error circle from 
+initial frames, down to a limiting magnitude of m(R) ~ 22.0, calibrated 
+with the nearby panstarrs field.
