@@ -13,13 +13,12 @@
   <title>GRB200125A</title>
   <SpMSB remaining="1" type="og" subtype="msb">
     <meta_gui_collapsed>false</meta_gui_collapsed>
-    <SpSchedConstObsCompRef idref="1"/>
     <SpSiteQualityObsCompRef idref="0"/>
-    <estimatedDuration units="seconds">2713.5</estimatedDuration>
+    <estimatedDuration units="seconds">3280.5</estimatedDuration>
     <library_version>$Revision$</library_version>
     <priority>99</priority>
     <title>9 point 10 arcsec jitter K</title>
-    <totalDuration units="seconds">2713.5</totalDuration>
+    <totalDuration units="seconds">3280.5</totalDuration>
     <SpSiteQualityObsComp id="0" type="oc" subtype="schedInfo">
       <meta_gui_collapsed>false</meta_gui_collapsed>
       <meta_unique>true</meta_unique>
@@ -28,18 +27,9 @@
         <max>2.0</max>
       </seeing>
     </SpSiteQualityObsComp>
-    <SpSchedConstObsComp id="1" type="oc" subtype="schedConstraints">
-      <meta_display_airmass>true</meta_display_airmass>
-      <meta_gui_collapsed>false</meta_gui_collapsed>
-      <meta_unique>true</meta_unique>
-      <earliest>2020-01-27T06:00:00</earliest>
-      <latest>2020-01-27T10:00:00</latest>
-      <maxEl>90.0</maxEl>
-      <minEl>30.0</minEl>
-    </SpSchedConstObsComp>
     <SpObs msb="false" optional="false" remaining="1" type="ob" subtype="none">
       <meta_gui_collapsed>false</meta_gui_collapsed>
-      <estimatedDuration units="seconds">2713.5</estimatedDuration>
+      <estimatedDuration units="seconds">3280.5</estimatedDuration>
       <standard>false</standard>
       <title>Observation</title>
       <SpNote type="no" subtype="none">
@@ -130,7 +120,7 @@ In general, we advocate sticking to 5s or 10s exposures for J, H, K.</note>
         <meta_version>1</meta_version>
         <coadds>1</coadds>
         <configType>Normal</configType>
-        <exposureTime>30.0</exposureTime>
+        <exposureTime>10.0</exposureTime>
         <filter>K</filter>
         <instAper>
           <value>0.0</value>
@@ -154,8 +144,8 @@ In general, we advocate sticking to 5s or 10s exposures for J, H, K.</note>
         </SpNote>
         <SpIterRepeat type="ic" subtype="repeat">
           <meta_gui_collapsed>false</meta_gui_collapsed>
-          <repeatCount>1</repeatCount>
-          <title>Repeat 1X</title>
+          <repeatCount>3</repeatCount>
+          <title>Repeat 3X</title>
           <SpNote type="no" subtype="none">
             <meta_gui_collapsed>false</meta_gui_collapsed>
             <note>This pattern aims to offset an integer number of IR pixels as the image may not be oversampled. Also the offsets are an integer number of AG pixels - otherwise the guider will pull it into an integer number anyway.
