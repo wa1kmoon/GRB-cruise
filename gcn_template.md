@@ -1,3 +1,7 @@
+
+#### 注意事项
+- 正文中第一个引的GCN应该是首先发现这个源的那个GCN
+
 #### upper limit (216)
 
 TITLE:   GCN CIRCULAR
