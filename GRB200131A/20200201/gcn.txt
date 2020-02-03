@@ -13,8 +13,7 @@ Observations started at 13:06:06 UT on 2020-02-01(i.e., 14.41 h after the BAT
 trigger) and a series of 6x300 s Sloan r-band frames were obtained.
 
 A source is detected in our images at the UVOT position (Kuin et al., 
-GCN 26953), which is already present in Pan-STARRS with m(r) = 19.12 +/- 
-0.01. The source had m(r) = 18.96 +/- 0.10 at the beginning and decayed 
+GCN 26953), which had m(r) = 17.68 +/- 0.10 at the beginning and decayed 
 to m(r) = 19.19 +/- 0.10 in about an hour. Because the flux difference 
 is small and observations were carried out in high airmass, it's not 
 clear if there is a GRB afterglow contribution. Our measurements are in 
