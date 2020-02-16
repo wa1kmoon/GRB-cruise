@@ -145,6 +145,21 @@
                 祝好
                 署名
             - 观测方案制定后，发送至邮箱optics_staff@xao.ac.cn
+    - next
+        - next对夜里突发的GRB和GW都可以自动反应，但以防万一，还是需要联系当地的观测者确认。
+        - next观测的高度角需求可放宽，20度以上均可，甚至10度以上也行
+        - GRB观测可以打断引力波观测
+        - 由于此GRB伽马波段流量较强而，而极早期光学余辉却较弱，可能是高红移或暗暴，因此预备使用ukirt观测
+        - 因此GRB的视场包含于sdss天区，可以直观比较仪器星等与真实星等。通过对比发现，next仪器星等与真实星等（r波段）差别大概是25等，且极限星等大概是19等。
+            - mag_best:-5.7315 mag_err:0.1710 mag_real(sdss-r):19.50
+            - mag_best:-5.8272 mag_err:0.1819 mag_real(sdss-r):20.01 locality:34.232,12.6936
+            - mag_best:-5.4767 mag_err:0.1919 mag_real(sdss-r):20.04 locality:34.0101,12.7159
+            - mag_best:-5.4114 mag_err:0.2034 mag_real(2mass) : ---  locality:34.201,12.7969
+            - mag_best:-5.6508 mag_err:0.2113 mag_real(sdss-r):23.84 locality:34.0636,12.80038 (not sure)
+            - mag_best:-4.7462 mag_err:0.2751 mag_real(sdss-r):20.49 locality:34.0661,12.9295
+            - mag_best:-4.7092 mag_err:0.3069 mag_real(sdss-r):20.08 locality:34.0559,12.9222
+            - mag_best:-4.4734 mag_err:0.3136 mag_real(sdss-r):21.42 locality:34:0089_12:6617
+            - 以上第二个到最后一个的图像见Astround/data/photometry/next/20200215/limit
 
 
 望远镜信息
