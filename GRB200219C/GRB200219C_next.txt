@@ -1,0 +1,488 @@
+#DIR survey_GRB200219C
+
+#interval 90
+#filter r2
+#repeat 1
+#binning 1
+GRB001_GRB200219C_1725+0915	17 25 50	+09 15 36
+
+#interval 90
+#filter r2
+#repeat 1
+#binning 1
+GRB002_GRB200219C_1725+0933	17 25 50	+09 33 36
+
+#interval 90
+#filter r2
+#repeat 1
+#binning 1
+GRB003_GRB200219C_1725+0951	17 25 50	+09 51 36
+
+#interval 90
+#filter r2
+#repeat 1
+#binning 1
+GRB004_GRB200219C_1725+1009	17 25 50	+10 09 36
+
+#interval 90
+#filter r2
+#repeat 1
+#binning 1
+GRB005_GRB200219C_1725+1027	17 25 50	+10 27 36
+
+#interval 90
+#filter r2
+#repeat 1
+#binning 1
+GRB006_GRB200219C_1725+1045	17 25 50	+10 45 36
+
+#interval 90
+#filter r2
+#repeat 1
+#binning 1
+GRB007_GRB200219C_1725+1103	17 25 50	+11 03 36
+
+#interval 90
+#filter r2
+#repeat 1
+#binning 1
+GRB008_GRB200219C_1725+1121	17 25 50	+11 21 36
+
+#interval 90
+#filter r2
+#repeat 1
+#binning 1
+GRB009_GRB200219C_1725+1139	17 25 50	+11 39 36
+
+#interval 90
+#filter r2
+#repeat 1
+#binning 1
+GRB010_GRB200219C_1727+0915	17 27 02	+09 15 36
+
+#interval 90
+#filter r2
+#repeat 1
+#binning 1
+GRB011_GRB200219C_1727+0933	17 27 02	+09 33 36
+
+#interval 90
+#filter r2
+#repeat 1
+#binning 1
+GRB012_GRB200219C_1727+0951	17 27 02	+09 51 36
+
+#interval 90
+#filter r2
+#repeat 1
+#binning 1
+GRB013_GRB200219C_1727+1009	17 27 02	+10 09 36
+
+#interval 90
+#filter r2
+#repeat 1
+#binning 1
+GRB014_GRB200219C_1727+1027	17 27 02	+10 27 36
+
+#interval 90
+#filter r2
+#repeat 1
+#binning 1
+GRB015_GRB200219C_1727+1045	17 27 02	+10 45 36
+
+#interval 90
+#filter r2
+#repeat 1
+#binning 1
+GRB016_GRB200219C_1727+1103	17 27 02	+11 03 36
+
+#interval 90
+#filter r2
+#repeat 1
+#binning 1
+GRB017_GRB200219C_1727+1121	17 27 02	+11 21 36
+
+#interval 90
+#filter r2
+#repeat 1
+#binning 1
+GRB018_GRB200219C_1727+1139	17 27 02	+11 39 36
+
+#interval 90
+#filter r2
+#repeat 1
+#binning 1
+GRB019_GRB200219C_1728+0915	17 28 14	+09 15 36
+
+#interval 90
+#filter r2
+#repeat 1
+#binning 1
+GRB020_GRB200219C_1728+0933	17 28 14	+09 33 36
+
+#interval 90
+#filter r2
+#repeat 1
+#binning 1
+GRB021_GRB200219C_1728+0951	17 28 14	+09 51 36
+
+#interval 90
+#filter r2
+#repeat 1
+#binning 1
+GRB022_GRB200219C_1728+1009	17 28 14	+10 09 36
+
+#interval 90
+#filter r2
+#repeat 1
+#binning 1
+GRB023_GRB200219C_1728+1027	17 28 14	+10 27 36
+
+#interval 90
+#filter r2
+#repeat 1
+#binning 1
+GRB024_GRB200219C_1728+1045	17 28 14	+10 45 36
+
+#interval 90
+#filter r2
+#repeat 1
+#binning 1
+GRB025_GRB200219C_1728+1103	17 28 14	+11 03 36
+
+#interval 90
+#filter r2
+#repeat 1
+#binning 1
+GRB026_GRB200219C_1728+1121	17 28 14	+11 21 36
+
+#interval 90
+#filter r2
+#repeat 1
+#binning 1
+GRB027_GRB200219C_1728+1139	17 28 14	+11 39 36
+
+#interval 90
+#filter r2
+#repeat 1
+#binning 1
+GRB028_GRB200219C_1729+0915	17 29 26	+09 15 36
+
+#interval 90
+#filter r2
+#repeat 1
+#binning 1
+GRB029_GRB200219C_1729+0933	17 29 26	+09 33 36
+
+#interval 90
+#filter r2
+#repeat 1
+#binning 1
+GRB030_GRB200219C_1729+0951	17 29 26	+09 51 36
+
+#interval 90
+#filter r2
+#repeat 1
+#binning 1
+GRB031_GRB200219C_1729+1009	17 29 26	+10 09 36
+
+#interval 90
+#filter r2
+#repeat 1
+#binning 1
+GRB032_GRB200219C_1729+1027	17 29 26	+10 27 36
+
+#interval 90
+#filter r2
+#repeat 1
+#binning 1
+GRB033_GRB200219C_1729+1045	17 29 26	+10 45 36
+
+#interval 90
+#filter r2
+#repeat 1
+#binning 1
+GRB034_GRB200219C_1729+1103	17 29 26	+11 03 36
+
+#interval 90
+#filter r2
+#repeat 1
+#binning 1
+GRB035_GRB200219C_1729+1121	17 29 26	+11 21 36
+
+#interval 90
+#filter r2
+#repeat 1
+#binning 1
+GRB036_GRB200219C_1729+1139	17 29 26	+11 39 36
+
+#interval 90
+#filter r2
+#repeat 1
+#binning 1
+GRB037_GRB200219C_1730+0915	17 30 38	+09 15 36
+
+#interval 90
+#filter r2
+#repeat 1
+#binning 1
+GRB038_GRB200219C_1730+0933	17 30 38	+09 33 36
+
+#interval 90
+#filter r2
+#repeat 1
+#binning 1
+GRB039_GRB200219C_1730+0951	17 30 38	+09 51 36
+
+#interval 90
+#filter r2
+#repeat 1
+#binning 1
+GRB040_GRB200219C_1730+1009	17 30 38	+10 09 36
+
+#interval 90
+#filter r2
+#repeat 1
+#binning 1
+GRB041_GRB200219C_1730+1027	17 30 38	+10 27 36
+
+#interval 90
+#filter r2
+#repeat 1
+#binning 1
+GRB042_GRB200219C_1730+1045	17 30 38	+10 45 36
+
+#interval 90
+#filter r2
+#repeat 1
+#binning 1
+GRB043_GRB200219C_1730+1103	17 30 38	+11 03 36
+
+#interval 90
+#filter r2
+#repeat 1
+#binning 1
+GRB044_GRB200219C_1730+1121	17 30 38	+11 21 36
+
+#interval 90
+#filter r2
+#repeat 1
+#binning 1
+GRB045_GRB200219C_1730+1139	17 30 38	+11 39 36
+
+#interval 90
+#filter r2
+#repeat 1
+#binning 1
+GRB046_GRB200219C_1731+0915	17 31 50	+09 15 36
+
+#interval 90
+#filter r2
+#repeat 1
+#binning 1
+GRB047_GRB200219C_1731+0933	17 31 50	+09 33 36
+
+#interval 90
+#filter r2
+#repeat 1
+#binning 1
+GRB048_GRB200219C_1731+0951	17 31 50	+09 51 36
+
+#interval 90
+#filter r2
+#repeat 1
+#binning 1
+GRB049_GRB200219C_1731+1009	17 31 50	+10 09 36
+
+#interval 90
+#filter r2
+#repeat 1
+#binning 1
+GRB050_GRB200219C_1731+1027	17 31 50	+10 27 36
+
+#interval 90
+#filter r2
+#repeat 1
+#binning 1
+GRB051_GRB200219C_1731+1045	17 31 50	+10 45 36
+
+#interval 90
+#filter r2
+#repeat 1
+#binning 1
+GRB052_GRB200219C_1731+1103	17 31 50	+11 03 36
+
+#interval 90
+#filter r2
+#repeat 1
+#binning 1
+GRB053_GRB200219C_1731+1121	17 31 50	+11 21 36
+
+#interval 90
+#filter r2
+#repeat 1
+#binning 1
+GRB054_GRB200219C_1731+1139	17 31 50	+11 39 36
+
+#interval 90
+#filter r2
+#repeat 1
+#binning 1
+GRB055_GRB200219C_1733+0915	17 33 02	+09 15 36
+
+#interval 90
+#filter r2
+#repeat 1
+#binning 1
+GRB056_GRB200219C_1733+0933	17 33 02	+09 33 36
+
+#interval 90
+#filter r2
+#repeat 1
+#binning 1
+GRB057_GRB200219C_1733+0951	17 33 02	+09 51 36
+
+#interval 90
+#filter r2
+#repeat 1
+#binning 1
+GRB058_GRB200219C_1733+1009	17 33 02	+10 09 36
+
+#interval 90
+#filter r2
+#repeat 1
+#binning 1
+GRB059_GRB200219C_1733+1027	17 33 02	+10 27 36
+
+#interval 90
+#filter r2
+#repeat 1
+#binning 1
+GRB060_GRB200219C_1733+1045	17 33 02	+10 45 36
+
+#interval 90
+#filter r2
+#repeat 1
+#binning 1
+GRB061_GRB200219C_1733+1103	17 33 02	+11 03 36
+
+#interval 90
+#filter r2
+#repeat 1
+#binning 1
+GRB062_GRB200219C_1733+1121	17 33 02	+11 21 36
+
+#interval 90
+#filter r2
+#repeat 1
+#binning 1
+GRB063_GRB200219C_1733+1139	17 33 02	+11 39 36
+
+#interval 90
+#filter r2
+#repeat 1
+#binning 1
+GRB064_GRB200219C_1734+0915	17 34 14	+09 15 36
+
+#interval 90
+#filter r2
+#repeat 1
+#binning 1
+GRB065_GRB200219C_1734+0933	17 34 14	+09 33 36
+
+#interval 90
+#filter r2
+#repeat 1
+#binning 1
+GRB066_GRB200219C_1734+0951	17 34 14	+09 51 36
+
+#interval 90
+#filter r2
+#repeat 1
+#binning 1
+GRB067_GRB200219C_1734+1009	17 34 14	+10 09 36
+
+#interval 90
+#filter r2
+#repeat 1
+#binning 1
+GRB068_GRB200219C_1734+1027	17 34 14	+10 27 36
+
+#interval 90
+#filter r2
+#repeat 1
+#binning 1
+GRB069_GRB200219C_1734+1045	17 34 14	+10 45 36
+
+#interval 90
+#filter r2
+#repeat 1
+#binning 1
+GRB070_GRB200219C_1734+1103	17 34 14	+11 03 36
+
+#interval 90
+#filter r2
+#repeat 1
+#binning 1
+GRB071_GRB200219C_1734+1121	17 34 14	+11 21 36
+
+#interval 90
+#filter r2
+#repeat 1
+#binning 1
+GRB072_GRB200219C_1734+1139	17 34 14	+11 39 36
+
+#interval 90
+#filter r2
+#repeat 1
+#binning 1
+GRB073_GRB200219C_1735+0915	17 35 26	+09 15 36
+
+#interval 90
+#filter r2
+#repeat 1
+#binning 1
+GRB074_GRB200219C_1735+0933	17 35 26	+09 33 36
+
+#interval 90
+#filter r2
+#repeat 1
+#binning 1
+GRB075_GRB200219C_1735+0951	17 35 26	+09 51 36
+
+#interval 90
+#filter r2
+#repeat 1
+#binning 1
+GRB076_GRB200219C_1735+1009	17 35 26	+10 09 36
+
+#interval 90
+#filter r2
+#repeat 1
+#binning 1
+GRB077_GRB200219C_1735+1027	17 35 26	+10 27 36
+
+#interval 90
+#filter r2
+#repeat 1
+#binning 1
+GRB078_GRB200219C_1735+1045	17 35 26	+10 45 36
+
+#interval 90
+#filter r2
+#repeat 1
+#binning 1
+GRB079_GRB200219C_1735+1103	17 35 26	+11 03 36
+
+#interval 90
+#filter r2
+#repeat 1
+#binning 1
+GRB080_GRB200219C_1735+1121	17 35 26	+11 21 36
+
+#interval 90
+#filter r2
+#repeat 1
+#binning 1
+GRB081_GRB200219C_1735+1139	17 35 26	+11 39 36
+
