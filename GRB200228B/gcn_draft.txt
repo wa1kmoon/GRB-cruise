@@ -1,0 +1,17 @@
+TITLE:   GCN CIRCULAR
+NUMBER:  27269
+SUBJECT: GRB 200228B: Nanshan-0.6m optical upper limit
+DATE:    20/02/28 23:10:00 GMT
+FROM:    Dong Xu at NAOC/CAS  <dxu@nao.cas.cn>
+
+X. Liu, D. Xu, Z.P. Zhu, B.Y. Yu, Y. Ma (NAOC), X. Gao (Urumqi No.1 
+Senior High School) report:
+
+We observed the field of GRB 200228B (Laha et al., GCN 27254) using the 
+NEXT-0.6m telescope located at Nanshan, Xinjiang, China. Observations 
+started at 21:11:28 UT on 2020-02-28 (i.e., 9.97h after the BAT 
+trigger), and 10*120 s Sloan r-band frames were obtained. 
+
+No optical afterglow was detected in the Swift XRT's error circle (Evans et al., GCN 27256) from 
+initial frames, down to a limiting magnitude of m(r) ~ 20.8, calibrated 
+with the nearby panstarrs field.

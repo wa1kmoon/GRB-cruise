@@ -4,3 +4,11 @@ RA (J2000) =  16:48:11.35 (252.0473)
 DEC(J2000) =  +16:59:06.0 (16.9850)
 
 Error radius: 5.4 arcsec
+
+
+XRT Enhanced:
+RA, Dec = 252.04640, +16.98523 
+RA (J2000): 16h 48m 11.14s
+Dec (J2000): +16d 59' 06.8"
+
+with an uncertainty of 3.5 arcsec (radius, 90% confidence).
