@@ -1,0 +1,13 @@
+XRT alert: 
+GRB time: 02:34:57.45 UT
+RA (J2000) =  14:10:52.15 (212.7173)
+DEC(J2000) =  +51:21:29.9 (51.3583)
+14:10:52.15 +51:21:29.9 / 212.7173 51.3583
+Error radius: 4.7 arcsec
+D(Moon) = 105.69 deg, D(Sun) = 119.94 deg, GRB is 8.8 hours W of the Sun.
+
+Enhanced XRT position:
+RA (J2000): 14h 10m 52.55s
+Dec (J2000): +51d 21' 33.5"
+14:10:52.55 +51:21:33:5
+with an uncertainty of 1.7 arcsec (radius, 90% confidence).
