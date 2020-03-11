@@ -1,0 +1,131 @@
+#DIR GW_survey_GRB200310A
+;Start of GW GRB200310A survey
+
+#interval 90
+#filter r2
+#repeat 1
+#binning 1
+GW001_GRB200310A_1512+4803	15 12 24	+48 03 00
+
+#interval 90
+#filter r2
+#repeat 1
+#binning 1
+GW002_GRB200310A_1512+4821	15 12 24	+48 21 00
+
+#interval 90
+#filter r2
+#repeat 1
+#binning 1
+GW003_GRB200310A_1512+4839	15 12 24	+48 39 00
+
+#interval 90
+#filter r2
+#repeat 1
+#binning 1
+GW004_GRB200310A_1511+4857	15 11 12	+48 57 00
+
+#interval 90
+#filter r2
+#repeat 1
+#binning 1
+GW005_GRB200310A_1511+4839	15 11 12	+48 39 00
+
+#interval 90
+#filter r2
+#repeat 1
+#binning 1
+GW006_GRB200310A_1511+4821	15 11 12	+48 21 00
+
+#interval 90
+#filter r2
+#repeat 1
+#binning 1
+GW007_GRB200310A_1511+4803	15 11 12	+48 03 00
+
+#interval 90
+#filter r2
+#repeat 1
+#binning 1
+GW008_GRB200310A_1511+4745	15 11 12	+47 45 00
+
+#interval 90
+#filter r2
+#repeat 1
+#binning 1
+GW009_GRB200310A_1510+4745	15 10 00	+47 45 00
+
+#interval 90
+#filter r2
+#repeat 1
+#binning 1
+GW010_GRB200310A_1510+4803	15 10 00	+48 03 00
+
+#interval 90
+#filter r2
+#repeat 1
+#binning 1
+GW011_GRB200310A_1510+4821	15 10 00	+48 21 00
+
+#interval 90
+#filter r2
+#repeat 1
+#binning 1
+GW012_GRB200310A_1510+4839	15 10 00	+48 39 00
+
+#interval 90
+#filter r2
+#repeat 1
+#binning 1
+GW013_GRB200310A_1510+4857	15 10 00	+48 57 00
+
+#interval 90
+#filter r2
+#repeat 1
+#binning 1
+GW014_GRB200310A_1508+4857	15 08 48	+48 57 00
+
+#interval 90
+#filter r2
+#repeat 1
+#binning 1
+GW015_GRB200310A_1508+4839	15 08 48	+48 39 00
+
+#interval 90
+#filter r2
+#repeat 1
+#binning 1
+GW016_GRB200310A_1508+4821	15 08 48	+48 21 00
+
+#interval 90
+#filter r2
+#repeat 1
+#binning 1
+GW017_GRB200310A_1508+4803	15 08 48	+48 03 00
+
+#interval 90
+#filter r2
+#repeat 1
+#binning 1
+GW018_GRB200310A_1508+4745	15 08 48	+47 45 00
+
+#interval 90
+#filter r2
+#repeat 1
+#binning 1
+GW019_GRB200310A_1507+4803	15 07 36	+48 03 00
+
+#interval 90
+#filter r2
+#repeat 1
+#binning 1
+GW020_GRB200310A_1507+4821	15 07 36	+48 21 00
+
+#interval 90
+#filter r2
+#repeat 1
+#binning 1
+GW021_GRB200310A_1507+4839	15 07 36	+48 39 00
+
+;End of GW GRB200310A survey
+;Total targets: 21

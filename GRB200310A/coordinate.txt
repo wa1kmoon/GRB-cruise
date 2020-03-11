@@ -1,0 +1,5 @@
+MAXI/GSC detection NUMBER:  27355
+(R.A., Dec) = (227.499 deg, 48.325 deg)
+ (15 09 59, +48 19 31) (J2000)
+with a 90% C.L. statistical error of 0.44 deg and an additional systematic uncertainty of 
+0.1 deg (90% containment radius).
