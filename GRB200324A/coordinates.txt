@@ -1,0 +1,6 @@
+XRT alert
+RA (J2000) =  14:50:41.16 (222.6715)
+DEC(J2000) =  +35:56:29.0 (35.9414)
+222.6715 35.9414
+Error radius: 5.4 arcsec
+D(Moon) = 133.30 deg, D(Sun) = 127.85 deg, GRB is 9.4 hours W of the Sun.
