@@ -1,0 +1,6 @@
+Packet-type: 67 (SWIFT_XRT), Notice-time: 02:39:52.00 UT
+RA (J2000) =  19:58:34.87 (299.6453)
+DEC(J2000) =  +51:46:52.0 (51.7811)
+
+Error radius: 2.2 arcsec
+D(Moon) = 94.15 deg, D(Sun) = 76.80 deg, GRB is 5.3 hours W of the Sun.
