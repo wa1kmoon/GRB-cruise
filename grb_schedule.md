@@ -13,10 +13,13 @@
 - 03.02~03.08   徐栋    属于
 - 03.09~03.15   刘行    不属于
 - 03.16~03.22   朱子佩  属于
-- 03.23～03.29  徐栋    不属于
-- 03.30～04.05  刘行    属于
+- 03.23~03.29   徐栋    不属于
+- 03.30~04.05   刘行    属于
+- 04.06~04.12   朱子佩  不属于
+- 04.13~04.19   朱子佩  属于
 
 ## 参考资料
+
 - [南山天气]    /   [NEXT数据]
 - [兴隆216时间分配] /   [兴隆天气]
 - [UKIRT]    /    [仪器安排]  /   [曝光时间]  /   [UKIRT天气]
@@ -39,6 +42,7 @@
 [UKIRT天气]:http://www.eao.hawaii.edu/weather/camera/ukirt/
 
 ## GRB值班注意事项
+
 - 值班交接时间：每周一上午10点
 - 值班者在微信群自行交接给下一名值班者，若未交接，则由该值班者继续负责
 - 值班期间发生的伽玛暴，由该周值班者负责之后的观测与数据处理（包括非值班周该暴的观测与处理）
@@ -56,8 +60,8 @@
 [Firefox]:https://addons.mozilla.org/en-US/firefox/addon/markdown-viewer-chrome/
 [chrome]:https://chrome.google.com/webstore/detail/markdown-preview-plus/febilkbfcbhebfnokafefeacimjdckgl
 
-
 ## 引力波值班注意事项
+
 - 原则
     - 最需要关注
         - 双中子星合并以及黑洞中子星合并
