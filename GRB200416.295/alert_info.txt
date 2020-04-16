@@ -1,0 +1,9 @@
+GRB 200416.295  GRB time: 07:05:17.17 UT
+Swift (SWIFT_UVOT) trigger number: 966554
+Swift packet sequence number: 3
+
+RA (J2000) =  22:22:47.81 (335.6992)
+DEC(J2000) =  -07:31:05.9 (-7.5183)
+335.6992 -7.5183
+Error radius: 0.7 arcsec
+D(Moon) = 34.74 deg, D(Sun) = 50.81 deg, GRB is 3.3 hours W of the Sun. 
