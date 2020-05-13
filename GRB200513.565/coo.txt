@@ -1,0 +1,4 @@
+XRT info from P920
+RA (J2000) =  16:19:59.59 (244.9983)
+DEC(J2000) =  -15:30:32.0 (-15.5090)
+Error radius: 4.68 arcsec 
