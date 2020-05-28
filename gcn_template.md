@@ -1,6 +1,6 @@
 
 #### 注意事项
-- 正文中第一个引的GCN应该是首先发现这个源的那个GCN
+- 正文中第一个引的GCN应该是首先发现目标源的那个GCN
 
 #### upper limit (216)
 
@@ -73,4 +73,4 @@ Blazek et al., GCN Circ 24902;  Jelinek & Strobl GCN Circ 24903;
 Malesani et al. GCN Circ 24904,  Mao et al., GCN Circ 24896,  24905) 
 was marginal detected in our stacked image with a magnitude of 
 R=20.5+/-0.2 mag at the mid time of about 2.1 days after the burst. 
-The photometry is calibrated with nearby USNO B1.0 stars
+The photometry is calibrated with nearby USNO B1.0 stars.
