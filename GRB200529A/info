@@ -1,0 +1,14 @@
+Packet-type: 67 (SWIFT_XRT), Notice-time: 01:04:16.00 UT
+==============
+GRB 200529.039         GRB time: 00:56:35.77 UT    (May 29.03930 UT, MJD = 58998.03930)
+==============
+
+Time since trigger (notice-GRB): 00h07m40s
+
+ToO: [not OK]  (kcds = 0000; A_V = 0.95; alt>30 @ 00:05-08:15 UT; t_start_XRT = 5 min)
+
+RA (J2000) =  15:55:03.77 (238.7657)
+DEC(J2000) =  -11:04:19.6 (-11.0721)
+
+Error radius: 5.0 arcsec
+D(Moon) = 108.89 deg, D(Sun) = 167.98 deg, GRB is 11.5 hours E of the Sun.

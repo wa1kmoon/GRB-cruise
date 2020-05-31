@@ -29,12 +29,13 @@
 - [南山天气]    /   [NEXT数据]
 - [兴隆216时间分配] /   [兴隆天气]
 - [UKIRT]    /    [仪器安排]  /   [曝光时间]  /   [UKIRT天气]
-- [NOT] /   [schedule]  /   [NOT_weather]   /   [duty_shift]
+- [NOT] /   [schedule]  /   [NOT_weather]   /   [duty_shift] / [数据下载]
 
 [schedule]:http://www.not.iac.es/observing/schedules/
 [NOT]:http://www.not.iac.es/
 [NOT_weather]:http://www.not.iac.es/weather/
 [duty_shift]:https://notendur.hi.is/~pja/NOT/schedule.txt
+[数据下载]:ftp://ftp.not.iac.es/pub/service/61/503/
 
 [南山天气]:http://www.xjltp.com/xo/cn/xmqx.htm
 [NEXT数据]:http://psp.china-vo.org/next/
