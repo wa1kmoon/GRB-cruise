@@ -1,0 +1,32 @@
+## GCN 27936 GRB 200613A: Swift-XRT afterglow detection
+
+Seven uncatalogued X-ray sources are detected, of which one ("Source
+2") is above the RASS limit, and is therefore likely the GRB afterglow.
+Using 4079 s of PC mode data and 4 UVOT images, we find an enhanced XRT
+position (using the XRT-UVOT alignment and matching UVOT field sources
+to the USNO-B1 catalogue): RA, Dec = 153.04199, +45.75408 which is
+equivalent to:
+
+RA (J2000): 10h 12m 10.08s
+Dec(J2000): +45d 45' 14.7"
+
+with an uncertainty of 1.4 arcsec (radius, 90% confidence). This
+position is 5.8 arcmin from the Fermi/LAT position. 
+
+
+## GCN 27935 GRB 200613A: Candidate afterglow from OAJ
+
+We observed the LAT position of the bright GRB 200613A (Fermi-LAT 
+detection: Ohno et al. GCN #27931, Fermi GBM detection: Bissaldi & 
+Lesage, GCN #27930) with the T80 0.8m telescope at the Observatorio de 
+Javalambre (Teruel, Spain). Observations consisted of 3 x 300 s in g', 3 
+x 300 s in r', and 5 x 180 s in i'.
+
+At the position of the second reported XRT source, we detect an optical 
+source not seen to several magnitudes deeper in PanSTARRS archival 
+imaging. The source is detected in each frame. The position is RA 
+(J2000) = 10:12:10.08, Dec. (J2000) = 45:54:14.26 with an estimated 
+error of 0".5. There is also a cataloged SDSS source nearby at RA 
+(J2000) = 10:12:10.075, Dec. (J2000) = 45:54:12.88, this may be the host 
+galaxy of the GRB, though we note nothing is detected here in the 
+PanSTARRS image.
