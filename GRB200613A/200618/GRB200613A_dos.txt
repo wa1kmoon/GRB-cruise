@@ -1,0 +1,1 @@
+#DIR GRB200613A#interval 360#filter r2#repeat 10#binning 1GRB200613A	10 12 10.03	45 45 14.1
