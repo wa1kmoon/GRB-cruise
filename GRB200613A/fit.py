@@ -49,13 +49,16 @@ sampler.run_mcmc(pos, 500)
 samples = sampler.chain[:, 50:, :].reshape((-1, ndim))
 
 
-#fig = corner.corner(samples, labels=["$α1$","$α2$","$Tb$","$B$"])
-#fig.savefig("contour.png")
+fig = corner.corner(samples, labels=["$α1$","$α2$","$Tb$","$B$"])
+fig.savefig("contour.png")
 
 a1, a2, tb, B = map(lambda v: (v[1], v[2]-v[1], v[1]-v[0]),
 							zip(*np.percentile(samples, [16, 50, 84],
 												axis=0)))
 print("a1:{}\na2:{}\ntb:{}\nB:{}".format(a1,a2,tb,B))
+
+with open('fit.txt','w') as fitfile:
+    fitfile.write("a1:{}\na2:{}\ntb:{}\nB:{}".format(a1,a2,tb,B))
 
 xp = np.arange(0,10,0.01)
 fig, ax = plt.subplots()
@@ -67,7 +70,7 @@ ax.set_xlim(0.1,10)
 ax.set_ylim(22,14)
 plt.xlabel('time since burst (day)')
 plt.ylabel('M (mag)')
-plt.savefig('r_AG+host.png',dpi=1000)
+plt.savefig('lightcurve.png',dpi=1000)
 
 #GRB 余辉去除
 # rfg = fluxfrac(blk(a1[0],a2[0],tb[0],B[0],rt[d:]))
