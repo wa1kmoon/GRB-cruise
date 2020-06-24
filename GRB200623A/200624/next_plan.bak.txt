@@ -1,0 +1,6 @@
+#DIR GRB200623A
+#interval 300
+#filter r2
+#repeat 10
+#binning
+GRB200623A 16 08 22.8 53 28 04.0

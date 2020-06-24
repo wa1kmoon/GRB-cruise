@@ -1,0 +1,37 @@
+TITLE:   GCN CIRCULAR
+NUMBER:  28011
+SUBJECT: GRB 200623A: Fermi GBM Final Real-time Localization
+DATE:    20/06/23 03:28:09 GMT
+FROM:    Fermi GBM Team at MSFC/Fermi-GBM  <do_not_reply@GIOC.nsstc.nasa.gov>
+
+The Fermi GBM team reports the detection of a likely SHORT GRB
+
+At 03:18:00 UT on 23 Jun 2020, the Fermi Gamma-ray Burst Monitor (GBM) triggered and located GRB 200623A (trigger 614575085.637496 / 200623138).
+
+The on-ground calculated location, using the Fermi GBM trigger data, is RA = 224.3, Dec = 60.4 (J2000 degrees, equivalent to J2000 14h 57m, 60d 23'), with a statistical uncertainty of 11.2 degrees.
+
+The angle from the Fermi LAT boresight is 25.0 degrees.
+
+The skymap can be found here:
+https://heasarc.gsfc.nasa.gov/FTP/fermi/data/gbm/triggers/2020/bn200623138/quicklook/glg_skymap_all_bn200623138.png
+
+The HEALPix FITS file, including the estimated localization systematic, can be found here:
+https://heasarc.gsfc.nasa.gov/FTP/fermi/data/gbm/triggers/2020/bn200623138/quicklook/glg_healpix_all_bn200623138.fit
+
+The GBM light curve can be found here:
+https://heasarc.gsfc.nasa.gov/FTP/fermi/data/gbm/triggers/2020/bn200623138/quicklook/glg_lc_medres34_bn200623138.gif
+
+
+TITLE:   GCN CIRCULAR
+NUMBER:  28013
+SUBJECT: GRB 200623A: Swift/BAT-GUANO detection and arcminute localization of a short GRB
+DATE:    20/06/23 13:18:09 GMT
+FROM:    Aaron Tohuvavohu at U Toronto  <aaron.tohu@gmail.com>
+
+The BAT ground-calculated position is
+RA, Dec = 242.0952, +53.4678 deg which is
+   RA(J2000)  = 16h 8m 22.8s
+   Dec(J2000) =  +53d 28’ 4” （28016， Correction to GCN 28013）
+with an uncertainty of 4 arcmin, (radius, sys+stat, 90% containment).
+The partial coding was 67.19%.
+
