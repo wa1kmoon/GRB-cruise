@@ -30,3 +30,5 @@ error of 0".5. There is also a cataloged SDSS source nearby at RA
 (J2000) = 10:12:10.075, Dec. (J2000) = 45:45:12.88, this may be the host 
 galaxy of the GRB, though we note nothing is detected here in the 
 PanSTARRS image.
+
+https://irsa.ipac.caltech.edu/ibe/search/ztf/products/sci?POS=153.04199,+45.75408&SIZE=0.2&INTERSECT=covers&COLUMBS=ra,dec,obsdate,filefracday,field,filtercode,ccdid,imgtypecode,qid&ct=html
