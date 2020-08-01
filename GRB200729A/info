@@ -1,0 +1,9 @@
+GRB200729.818 UT
+Packet_Type : SWIFT_XRT 67
+1. ivorn: GCN2020-07-29T20:25:26.xml
+2. ra,dec = ( 184.3775 45.5938 ) deg
+3. err = 0.0009 deg
+4. Sun_Distance = 52.64 deg
+5. MOON_Distance = 85.69 deg
+6. dss image link http://archive.eso.org/dss/dss/image?ra=184.3775&dec=45.5938&equinox=J2000&name=&x=10&y=10&Sky-Survey=DSS2-red&mime-type=download-fits&statsmode=WEBFORM
+7. http://catserver.ing.iac.es/staralt/index.php 
