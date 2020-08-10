@@ -1,0 +1,11 @@
+ Content of GRB mail from P920
+
+
+GRB200806.645 UT
+Packet_Type : SWIFT_XRT 67
+1. ivorn: GCN2020-08-06T16:06:40.xml
+2. ra,dec = ( 52.9317 37.0784 ) deg
+3. err = 0.0009 deg
+4. Sun_Distance = 75.36 deg
+5. MOON_Distance = 73.21 deg
+6. dss image link http://archive.eso.org/dss/dss/image?ra=52.9317&dec=37.0784&equinox=J2000&name=&x=10&y=10&Sky-Survey=DSS2-red&mime-type=download-fits&statsmode=WEBFORM 

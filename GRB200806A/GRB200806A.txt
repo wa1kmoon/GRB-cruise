@@ -1,0 +1,14 @@
+#DIR GRB200806A
+
+#interval 100
+#filter r2
+#repeat 8
+#binning 1
+GRB200806A	03 31 43.15	+37 04 47.6
+
+#interval 100
+#filter i2
+#repeat 8
+#binning 1
+GRB200806A	03 31 43.15	+37 04 47.6
+
