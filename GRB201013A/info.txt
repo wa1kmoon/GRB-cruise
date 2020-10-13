@@ -1,0 +1,35 @@
+GRB201013.157 UT
+
+Swift trigger number: 999948
+GRB time : 03:46:30.65 UT
+Packet Type : SWIFT_XRT 67
+
+RA (J2000) = 07:09:34.272 (107.3928)
+DEC(J2000) = +57:02:06.72 (57.0352)
+Error radius = 3.96 arcsec
+A_V = 0.14 mag
+Sun Distance = 97.13 deg
+Moon Distance = 53.05 deg
+Moon_Illum = 18.54&percnt;
+
+XRT Flux = 1.00e-10 erg/cm2/sec
+XRT S/N = 10.00 
+
+---
+
+TITLE:   GCN CIRCULAR
+NUMBER:  28607
+SUBJECT: GRB 201013A: Swift detection of a burst
+DATE:    20/10/13 04:01:49 GMT
+FROM:    Kim Page at U.of Leicester  <klp5@leicester.ac.uk>
+
+The XRT began observing the field at 03:47:39.9 UT, 69.3 seconds after
+the BAT trigger. Using promptly downlinked data we find an uncatalogued
+X-ray source with an enhanced position: RA, Dec 107.3945, 57.0347 which
+is equivalent to:
+   RA(J2000)  = 07h 09m 34.69s
+   Dec(J2000) = +57d 02' 05.0"
+with an uncertainty of 2.4 arcseconds (radius, 90% containment). This
+location is 13 arcseconds from the BAT onboard position, within the BAT
+error circle. This position may be improved as more data are received;
+the latest position is available at https://www.swift.ac.uk/sper. 
