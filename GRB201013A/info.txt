@@ -33,3 +33,5 @@ with an uncertainty of 2.4 arcseconds (radius, 90% containment). This
 location is 13 arcseconds from the BAT onboard position, within the BAT
 error circle. This position may be improved as more data are received;
 the latest position is available at https://www.swift.ac.uk/sper. 
+
+NO observation!
