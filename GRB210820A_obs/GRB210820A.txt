@@ -1,0 +1,7 @@
+#DIR GRB210820A
+
+#interval 200
+#filter r2
+#repeat 10
+#binning 1
+GRB210820A	01 22 33.48	+04 36 28.08

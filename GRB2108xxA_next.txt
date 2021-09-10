@@ -1,0 +1,7 @@
+#DIR GRB2108xxA
+
+#interval 200
+#filter r2
+#repeat 10
+#binning 1
+GRB2108xxA	00 00 00	+00 00 00

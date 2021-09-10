@@ -1,0 +1,284 @@
+#DIR Survey_20210827
+
+#SETS 2
+
+#interval 60
+#repeat 1
+#binning 1
+T00278_2011-2000	20 11 22	-20 00 00
+
+#interval 60
+#repeat 1
+#binning 1
+T00279_2015-2000	20 15 43	-20 00 00
+
+#interval 60
+#repeat 1
+#binning 1
+T00280_2020-2000	20 20 04	-20 00 00
+
+#interval 60
+#repeat 1
+#binning 1
+T00281_2024-2000	20 24 24	-20 00 00
+
+#interval 60
+#repeat 1
+#binning 1
+T00282_2028-2000	20 28 45	-20 00 00
+
+#interval 60
+#repeat 1
+#binning 1
+T00609_2010-1918	20 10 25	-19 18 00
+
+#interval 60
+#repeat 1
+#binning 1
+T00610_2014-1918	20 14 45	-19 18 00
+
+#interval 60
+#repeat 1
+#binning 1
+T00611_2019-1918	20 19 04	-19 18 00
+
+#interval 60
+#repeat 1
+#binning 1
+T00612_2023-1918	20 23 24	-19 18 00
+
+#interval 60
+#repeat 1
+#binning 1
+T00613_2027-1918	20 27 43	-19 18 00
+
+#interval 60
+#repeat 1
+#binning 1
+T00614_2032-1918	20 32 02	-19 18 00
+
+#interval 60
+#repeat 1
+#binning 1
+T00942_2009-1836	20 09 40	-18 36 00
+
+#interval 60
+#repeat 1
+#binning 1
+T00943_2013-1836	20 13 58	-18 36 00
+
+#interval 60
+#repeat 1
+#binning 1
+T00944_2018-1836	20 18 16	-18 36 00
+
+#interval 60
+#repeat 1
+#binning 1
+T00945_2022-1836	20 22 35	-18 36 00
+
+#interval 60
+#repeat 1
+#binning 1
+T00946_2026-1836	20 26 53	-18 36 00
+
+#interval 60
+#repeat 1
+#binning 1
+T00947_2031-1836	20 31 11	-18 36 00
+
+#interval 60
+#repeat 1
+#binning 1
+T01276_2009-1754	20 09 05	-17 54 00
+
+#interval 60
+#repeat 1
+#binning 1
+T01277_2013-1754	20 13 22	-17 54 00
+
+#interval 60
+#repeat 1
+#binning 1
+T01278_2017-1754	20 17 40	-17 54 00
+
+#interval 60
+#repeat 1
+#binning 1
+T01279_2021-1754	20 21 57	-17 54 00
+
+#interval 60
+#repeat 1
+#binning 1
+T01280_2026-1754	20 26 14	-17 54 00
+
+#interval 60
+#repeat 1
+#binning 1
+T01281_2030-1754	20 30 31	-17 54 00
+
+#interval 60
+#repeat 1
+#binning 1
+T01282_2034-1754	20 34 49	-17 54 00
+
+#interval 60
+#repeat 1
+#binning 1
+T01611_2008-1712	20 08 42	-17 12 00
+
+#interval 60
+#repeat 1
+#binning 1
+T01612_2012-1712	20 12 58	-17 12 00
+
+#interval 60
+#repeat 1
+#binning 1
+T01613_2017-1712	20 17 14	-17 12 00
+
+#interval 60
+#repeat 1
+#binning 1
+T01614_2021-1712	20 21 30	-17 12 00
+
+#interval 60
+#repeat 1
+#binning 1
+T01615_2025-1712	20 25 47	-17 12 00
+
+#interval 60
+#repeat 1
+#binning 1
+T01616_2030-1712	20 30 03	-17 12 00
+
+#interval 60
+#repeat 1
+#binning 1
+T01617_2034-1712	20 34 19	-17 12 00
+
+#interval 60
+#repeat 1
+#binning 1
+T01948_2008-1630	20 08 29	-16 30 00
+
+#interval 60
+#repeat 1
+#binning 1
+T01949_2012-1630	20 12 44	-16 30 00
+
+#interval 60
+#repeat 1
+#binning 1
+T01950_2016-1630	20 16 60	-16 30 00
+
+#interval 60
+#repeat 1
+#binning 1
+T01951_2021-1630	20 21 15	-16 30 00
+
+#interval 60
+#repeat 1
+#binning 1
+T01952_2025-1630	20 25 30	-16 30 00
+
+#interval 60
+#repeat 1
+#binning 1
+T01953_2029-1630	20 29 46	-16 30 00
+
+#interval 60
+#repeat 1
+#binning 1
+T01954_2034-1630	20 34 01	-16 30 00
+
+#interval 60
+#repeat 1
+#binning 1
+T02286_2008-1548	20 08 27	-15 48 00
+
+#interval 60
+#repeat 1
+#binning 1
+T02287_2012-1548	20 12 42	-15 48 00
+
+#interval 60
+#repeat 1
+#binning 1
+T02288_2016-1548	20 16 56	-15 48 00
+
+#interval 60
+#repeat 1
+#binning 1
+T02289_2021-1548	20 21 11	-15 48 00
+
+#interval 60
+#repeat 1
+#binning 1
+T02290_2025-1548	20 25 25	-15 48 00
+
+#interval 60
+#repeat 1
+#binning 1
+T02291_2029-1548	20 29 40	-15 48 00
+
+#interval 60
+#repeat 1
+#binning 1
+T02292_2033-1548	20 33 54	-15 48 00
+
+#interval 60
+#repeat 1
+#binning 1
+T02625_2008-1506	20 08 37	-15 06 00
+
+#interval 60
+#repeat 1
+#binning 1
+T02626_2012-1506	20 12 50	-15 06 00
+
+#interval 60
+#repeat 1
+#binning 1
+T02627_2017-1506	20 17 04	-15 06 00
+
+#interval 60
+#repeat 1
+#binning 1
+T02628_2021-1506	20 21 17	-15 06 00
+
+#interval 60
+#repeat 1
+#binning 1
+T02629_2025-1506	20 25 31	-15 06 00
+
+#interval 60
+#repeat 1
+#binning 1
+T02630_2029-1506	20 29 44	-15 06 00
+
+#interval 60
+#repeat 1
+#binning 1
+T02966_2013-1424	20 13 09	-14 24 00
+
+#interval 60
+#repeat 1
+#binning 1
+T02967_2017-1424	20 17 22	-14 24 00
+
+#interval 60
+#repeat 1
+#binning 1
+T02968_2021-1424	20 21 35	-14 24 00
+
+#interval 60
+#repeat 1
+#binning 1
+T02969_2025-1424	20 25 47	-14 24 00
+
+#interval 60
+#repeat 1
+#binning 1
+T03309_2022-1342	20 22 03	-13 42 00
+

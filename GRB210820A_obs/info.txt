@@ -1,0 +1,21 @@
+GRB210820.736 UT
+
+    Swift trigger number: 1069551
+    GRB time : 17:40:07.99 UT
+    Packet Type : SWIFT_UVOT 81
+
+    RA (J2000) = 01:22:33.48 (20.6395)
+    DEC(J2000) = +04:36:28.08 (4.6078)
+    Error radius = 0.72 arcsec
+    (l, b) = (137.43, -57.385)
+    A_V = 0.1 mag
+    Sun Distance = 126.73 deg
+    Moon Distance = 75.67 deg
+    Moon_Illum = 96.18&percnt;
+
+    UVOT MAG (White) = 17.53 +/- 0.14 
+
+----
+
+observed with next and not
+no new source was found in error circle

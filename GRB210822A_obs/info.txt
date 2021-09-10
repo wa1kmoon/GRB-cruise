@@ -1,0 +1,36 @@
+GRB210822.387 UT
+
+    Swift trigger number: 1069788
+    GRB time : 09:18:18.16 UT
+    Packet Type : SWIFT_XRT 67
+
+    RA (J2000) = 20:17:45.048 (304.4377)
+    DEC(J2000) = +05:16:42.96 (5.2786)
+    Error radius = 6.12 arcsec
+    (l, b) = (47.975, -16.498)
+    A_V = 0.49 mag
+    Sun Distance = 148.29 deg
+    Moon Distance = 34.87 deg
+    Moon_Illum = 99.98&percnt;
+
+    XRT Flux = 1.25e-08 erg/cm2/sec
+    XRT S/N = 4.89 
+
+--------------------------------------
+
+GRB210822.388 UT
+
+    Swift trigger number: 1069788
+    GRB time : 09:19:39.99 UT
+    Packet Type : SWIFT_UVOT 81
+
+    RA (J2000) = 20:17:45 (304.4375)
+    DEC(J2000) = +05:16:59.88 (5.2833)
+    Error radius = 0.36 arcsec
+    (l, b) = (47.979, -16.495)
+    A_V = 0.49 mag
+    Sun Distance = 148.09 deg
+    Moon Distance = 37.45 deg
+    Moon_Illum = 99.95&percnt;
+
+    UVOT MAG (White) = 13.69 +/- 0.14 
