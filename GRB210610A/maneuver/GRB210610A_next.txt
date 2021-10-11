@@ -1,0 +1,7 @@
+#DIR GRB210610A
+
+#interval 200
+#filter r2
+#repeat 10
+#binning 1
+GRB210610A	13 37 08	+14 27 55

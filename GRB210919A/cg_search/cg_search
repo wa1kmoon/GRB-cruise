@@ -1,0 +1,44 @@
+###### for YU cg_search ###### 
+
+### center  WCS_RA WCS_DEC of image  (degree) 
+
+WCS_RA= 20.64
+WCS_DEC= 4.61
+### radius (degree,commend <0.12)
+radius=0.08
+
+### imname(*.asc) 
+
+imname=GaiaCatalog0.ASC
+
+### dbname(*.csv) 
+
+dbname= mean
+
+### number of source in *.asc 
+
+s_head= 274
+
+### mm should be setted [g,r,i,z,y,R,I]  
+
+mm= r
+
+###  range of mag in  star catalogue. 
+
+rmag=14 18 
+
+### max of mag_err in  star catalogue.
+
+rmag_err=0.1 
+
+###  .....  
+
+mytuo=0.2 
+
+### max of ymag_err in image. 
+
+ymag_err=0.1 
+
+### How many standard stars will be used  
+
+lim=10

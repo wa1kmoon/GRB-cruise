@@ -1,0 +1,71 @@
+ GRB211001.030 UT
+
+    Swift trigger number: 1076121
+    GRB time : 00:43:19.68 UT
+    Packet Type : SWIFT_BAT 61
+
+    RA (J2000) = 04:45:52.872 (71.4703)
+    DEC(J2000) = +12:02:25.8 (12.0405)
+    Error radius = 180.0 arcsec
+    (l, b) = (186.34, -20.992)
+    A_V = 1.32 mag
+    Sun Distance = 115.73 deg
+    Moon Distance = 49.85 deg
+    Moon_Illum = 31.52%
+
+    Fluence = 284 counts
+    Peak flux = 33 counts/s
+    Image S/N = 0.064
+    Rate S/N = 9.89
+    Trigger duration = 6.54 s 
+
+---------------
+
+
+
+MASTER-Tavrida robotic telescope (Global MASTER-Net: http://observ.pereplet.ru, Lipunov et al., 2010, Advances in Astronomy, vol. 2010, 30L) located in Russia (Lomonosov MSU, SAI Crimea astronomical station) was pointed to the  GRB211001.03 27 sec after notice time and 41 sec after trigger time at 2021-10-01 00:44:01 UT. On our 3-th (20s exposure)  set , obtained 100 sec after tigger time at 2021-10-01 00:44:59 UT, we  found 1 optical transient within Swift error-box (ra=71.4667 dec=12.0397 r=0.05) brighter than  14.6.
+
+
+ T-Tmid      Date      Time       Expt.        Ra                Dec           Mag
+---------|---------------------|-------|-----------------|-----------------|-------
+     110   2021-10-01 00:44:59      20   (04h 46m 00.28s , +12d 02m 15.1s)     14.2
+
+The 5-sigma upper limit has been about  14.6mag
+The message may be cited.
+
+
+
+---------------------
+
+
+
+At 00:43:19 UT, the Swift Burst Alert Telescope (BAT) triggered and
+located a marginal peak (trigger=1076121).  Swift slewed immediately
+to the location.  The BAT on-board calculated location is 
+RA, Dec 71.470, +12.040 which is 
+   RA(J2000) = 04h 45m 53s
+   Dec(J2000) = +12d 02' 26"
+with an uncertainty of 3 arcmin (radius, 90% containment, including 
+systematic uncertainty).  The BAT light curve does not show
+any significant activity. 
+
+The XRT began observing the field at 00:44:28.8 UT, 69.2 seconds after
+the BAT trigger. No source was detected in 461 s of promptly downlinked
+data. We are waiting for the full dataset to detect and localise the
+XRT counterpart. 
+
+UVOT took a finding chart exposure of 250 seconds with the U filter starting
+284 seconds after the BAT trigger. No credible afterglow candidate has been
+found in the initial data products. The 2.7'x2.7' sub-image covers 24% of the
+BAT error circle. The typical 3-sigma upper limit has been about 19.2 mag. The
+8'x8' region for the list of sources generated on-board covers 100% of the BAT
+error circle. The list of sources is typically complete to about 18.0 mag. No
+correction has been made for the expected extinction corresponding to E(B-V) of
+0.411. 
+
+Due to the marginal significance of the image peak (6.54 sigma), the
+lack of a peak in the light curve, the existence of a noisy pixel in
+the BAT detector plane histogram, and the lack of a detection
+of a counterpart by XRT, we believe that this trigger is
+not due to an astrophysical event. 
+

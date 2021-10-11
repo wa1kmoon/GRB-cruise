@@ -1,0 +1,134 @@
+TITLE:   GCN CIRCULAR
+NUMBER:  30912
+SUBJECT: GRB 210928A: Fermi-LAT detection
+DATE:    21/10/01 14:29:38 GMT
+FROM:    Magnus Axelsson at Stockholm U.  <magaxe@kth.se>
+
+M. Axelsson (KTH & Stockholm Univ.), N. Di Lalla (Stanford Univ.), E. Bissaldi (Politecnico & INFN Bari), N. Omodei (Stanford Univ.), C. C. Cheung (NRL) and G. La Mura (LIP) report on behalf of the Fermi-LAT Collaboration:
+
+On September 28th, 2021, Fermi-LAT detected high-energy emission from GRB 210928A, which was also detected by Fermi GBM (trigger 654487236 / 210928084). This source has previously been reported as the Fermi-LAT transient J1623-1752 (Rani et al., ATel #14939) and Swift X-ray transient J162315.0-175233 (Page et al.; ATel #14945). Further analysis shows that the LAT source is consistent with being a GRB, making the Swift transient the afterglow candidate.
+
+The best LAT on-ground location is found to be
+
+RA, Dec = 245.88, -17.91 (degrees, J2000)
+
+with an error radius of 0.15 deg (90% containment, statistical error only). This location is consistent with the Swift X-ray transient.
+
+The position was 16 deg from the LAT boresight at the time of the GBM trigger:
+
+T0 = 02:00:31 UT.
+
+The data from the Fermi-LAT show a significant increase in the event rate after the trigger that is spatially correlated with the GBM emission with high significance. The photon flux above 100 MeV in the time interval 0-1000 s after the trigger is 8.4 (-/+ 1.5) e-06 ph/cm2/s.
+
+The estimated photon index above 100 MeV is -2.2 (-/+ 0.2).
+
+The highest-energy photon is a 6 GeV event which is observed ~50 s after the trigger.
+
+The Fermi-LAT point of contact for this burst is Magnus Axelsson (magaxe@kth.se).
+
+The Fermi-LAT is a pair conversion telescope designed to cover the energy band from 20 MeV to greater than 300 GeV. It is the product of an international collaboration between NASA and DOE in the U.S. and many scientific institutions across France, Italy, Japan and Sweden.
+
+
+------------------------
+
+
+TITLE:   GCN CIRCULAR
+NUMBER:  30913
+SUBJECT: GRB 210928A: Fermi GBM observation
+DATE:    21/10/01 15:23:19 GMT
+FROM:    Cori Fletcher at USRA  <cfletcher@usra.edu>
+
+C. Fletcher (USRA) and C. Meegan (UAH) report on behalf of the Fermi GBM Team:
+
+"At 02:00:31.01 UT on 28 September 2021, the Fermi Gamma-Ray Burst Monitor (GBM)
+triggered and located GRB 210928A (trigger 654487236 / 210928084)
+which was also detected by the Fermi LAT (M. Axelsson et al. 2021, GCN 30912).
+The GBM on-ground location is consistent with the LAT position.
+
+The angle from the Fermi LAT boresight at the GBM trigger time is 16 degrees.
+
+The GBM light curve consists of a multiple peaks
+with a duration (T90) of about 24 s (50-300 keV).
+The time-averaged spectrum from T0+2.1 s to T0+26.6 s is
+best fit by a power law function with an exponential
+high-energy cutoff.  The power law index is -0.45 +/- 0.02 and
+the cutoff energy, parameterized as Epeak, is 465 +/- 10 keV.
+
+The event fluence (10-1000 keV) in this time interval is
+(4.925 +/- 0.052)E-05 erg/cm^2. The 1-sec peak photon flux measured
+starting from T0+18.04 s in the 10-1000 keV band
+is 10.6 +/- 0.3 ph/s/cm^2.
+
+The spectral analysis results presented above are preliminary;
+final results will be published in the GBM GRB Catalog:
+https://heasarc.gsfc.nasa.gov/W3Browse/fermi/fermigbrst.html
+
+For Fermi GBM data and info, please visit the official Fermi GBM Support Page:
+https://fermi.gsfc.nasa.gov/ssc/data/access/gbm/"
+FSSC: Data � Data Access � GBM<https://fermi.gsfc.nasa.gov/ssc/data/access/gbm/>
+GBM Data Products. This page lists the science data products created by the GIOC (GBM Instrument Operations Center) and provided to the FSSC. GBM Daily, Trigger, and Burst Data
+fermi.gsfc.nasa.gov
+
+
+
+------------------------
+
+
+TITLE:   GCN CIRCULAR
+NUMBER:  30915
+SUBJECT: GRB 210928A: Swift-XRT analysis (replaces GCN 30914)
+DATE:    21/10/01 17:48:53 GMT
+FROM:    Phil Evans at U of Leicester  <pae9@leicester.ac.uk>
+
+P. A. Evans and K.L. Page (U. Leicester) report on behalf of the Swift-XRT team:
+
+GCN Circ (30914) was sent in error, prematurely. The corrected information is below,
+and we apologise for the confusion.
+
+We have analysed 5.3 ks of XRT data for the Fermi-detected burst GRB 210928A
+(GCN Circs. 30912, 30913). The data were originally collected as a ToO to
+observe U Sco, the possible counterpart to the Fermi-LAT source Fermi J1623-1752
+(ATEL #14939). While U Sco was not detected, a new transient, Swift
+J162315.0-175233 was discovered (ATEL #14945). Further Swift observations were
+requested and are ongoing. The discovery of an unannounced Fermi-GBM trigger has
+identified this object as GRB 210928A (ATEL #14948), and the manual insertion 
+of the already-observed data into the GRB analysis system resulted in the premature
+dispatch of this circular.
+
+The Swift-XRT observations at present extend from 67.4 ks to 262.9 ks after the
+GBM trigger time. The data are entirely in Photon Counting (PC) mode. Using 1636
+s of PC mode data and 2 UVOT images, we find an enhanced XRT position (using the
+XRT-UVOT alignment and matching UVOT field sources to the USNO-B1 catalogue):
+RA, Dec = 245.51109, -17.94788 which is equivalent to:
+
+RA (J2000): 16h 22m 02.66s
+Dec(J2000): -17d 56' 52.4"
+
+with an uncertainty of 4.4 arcsec (radius, 90% confidence). This
+position is 29 arcsec from the Fermi-LAT  position. 
+
+The light curve can be modelled with a power-law decay with a decay index of
+alpha=1.3 (+1.8, -1.3); however comprising only 3 data points and an upper
+limit, this should be viewed with the caution the large error-bars imply.
+
+A spectrum formed from the PC mode data can be fitted with an absorbed
+power-law with a photon spectral index of 1.4 (+0.6, -0.3). The
+best-fitting absorption column is  2.342 (+3.358, -0.021) x 10^21
+cm^-2, consistent with the Galactic value of 2.3 x 10^21 cm^-2
+(Willingale et al. 2013). The counts to observed (unabsorbed) 0.3-10
+keV flux conversion factor deduced from this spectrum  is 4.8 x 10^-11
+(5.5 x 10^-11) erg cm^-2 count^-1. 
+
+A summary of the PC-mode spectrum is thus:
+Total column:	     2.342 (+3.358, -0.021) x 10^21 cm^-2
+Galactic foreground: 2.3 x 10^21 cm^-2
+Excess significance: <1.6 sigma
+Photon index:	     1.4 (+0.6, -0.3)
+
+The results of the XRT-team automatic analysis are available at
+http://www.swift.ac.uk/xrt_products/00014850.
+
+This circular is an official product of the Swift-XRT team.
+
+
+
