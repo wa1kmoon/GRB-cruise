@@ -40,8 +40,8 @@
 [NOT]:http://www.not.iac.es/
 [NOT_weather]:http://www.not.iac.es/weather/
 [duty_shift]:https://notendur.hi.is/~pja/NOT/schedule.txt
-[数据下载]:ftp://ftp.not.iac.es/pub/service/61/503/
-[光谱数据]：ftp://ftp.not.iac.es/pub/service/62/508/
+[数据下载]:ftp://ftp.not.iac.es/pub/service/64/502/
+#[光谱数据]：ftp://ftp.not.iac.es/pub/service/62/508/
 
 [南山天气]:http://www.xjltp.com/xo/cn/xmqx.htm
 [NEXT数据]:http://psp.china-vo.org/next/
