@@ -1,0 +1,11 @@
+TITLE:   GCN CIRCULAR
+NUMBER:
+SUBJECT: GRB 211025A: Nanshan/NEXT optical upper limit
+DATE:
+FROM:    Dong Xu at NAOC/CAS  <dxu@nao.cas.cn>
+
+S.Q. Jiang (NAOC), Z.P. Zhu (NAOC,HUST), S.Y. Fu , X. Liu, D. Xu (NAOC), X. Gao (Urumqi No.1 Senior High School), J.Z. Liu (XAO) report:
+
+We observed the field of GRB 211025A (Gropp et al., GCN 30986) using the NEXT-0.6m telescope located at Nanshan, Xinjiang, China. We obtained 15x100 s frames in the Sloan r-band, starting at 22:20:27 UT on 2021-10-25, i.e., 17.17 hr after the trigger time.
+
+No optical source is detected in our stacked image at the UVOT position (Oates et al., GCN 30991), down to a limiting magnitude of r~21.4, calibrated with the nearby PanSTARRS field.
