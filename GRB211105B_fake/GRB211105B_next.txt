@@ -1,0 +1,7 @@
+#DIR GRB211105A
+
+#interval 200
+#filter r2
+#repeat 15
+#binning 1
+GRB211105A	18 04 19	+41 23 55
