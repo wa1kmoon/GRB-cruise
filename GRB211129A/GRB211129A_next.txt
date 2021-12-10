@@ -1,0 +1,7 @@
+#DIR GRB211129A
+
+#interval 100
+#filter r2
+#repeat 18
+#binning 1
+GRB211129A	18 18 20	+31 47 21

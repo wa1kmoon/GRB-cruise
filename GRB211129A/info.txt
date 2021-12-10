@@ -1,0 +1,22 @@
+GRB211129.410 UT
+
+    Swift trigger number: 1085430
+    GRB time : 09:51:06.23 UT
+    Packet Type : SWIFT_XRT 67
+
+    RA (J2000) = 18:18:20.016 (274.5834)
+    DEC(J2000) = +31:47:21.12 (31.7892)
+    Error radius = 5.04 arcsec
+    (l, b) = (59.086, 20.432)
+    A_V = 0.25 mag
+    Sun Distance = 60.22 deg
+    Moon Distance = 90.00 deg
+    Moon_Illum = 30.54%
+
+    XRT Flux = 1.41e-09 erg/cm2/sec
+    XRT S/N = 7.74
+
+    Swift Burst Ground-Analysis Information
+    Swift/XRT SPER Position
+    UVOT blink image(may take a few min)
+
