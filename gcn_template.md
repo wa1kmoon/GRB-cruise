@@ -74,3 +74,32 @@ Malesani et al. GCN Circ 24904,  Mao et al., GCN Circ 24896,  24905)
 was marginal detected in our stacked image with a magnitude of 
 R=20.5+/-0.2 mag at the mid time of about 2.1 days after the burst. 
 The photometry is calibrated with nearby USNO B1.0 stars.
+
+#### multi-wavelength afterglow of GRB 121211A
+
+Title: GRB 211211A: Nanshan/NEXT optical observations 
+
+S.Q. Jiang (NAOC), Z.P. Zhu (NAOC, HUST), S.Y. Fu, X. Liu, D. Xu (NAOC), 
+X. Gao (Urumqi No.1 Senior High School), J.Z. Liu (XAO) report:
+
+We observed the field of GRB 211211A detected by Fermi (Fermi GBM team, 
+GCN 31201) and Swift (D'Ai et al., GCN 31202) using the NEXT-0.6m 
+optical telescope located at Nanshan, Xinjiang, China. Observations 
+started at 23:01:09 UT on 2021-12-11, i.e., 9.85 hr after the BAT 
+trigger, and 10x200 s frames in the Sloan r-filter as well as 12x200 s 
+frames in the Sloan z-filter were obtained.
+
+The optical afterglow candidate of the GRB reported by KAIT (Zheng & 
+Filippenko, GCN 31203), consistent with the enhanced Swift-XRT position 
+(Beardmore et al., GCN 31205), is detected in our stacked r- and z-band 
+images. Preliminary photometry is as follows:
+
+T_mid-T0 (hr)    Mag     MagErr  Filter
+10.34               20.29    0.07        r
+10.68               19.9      0.3         z
+
+both calibrated with nearby PS1 stars.
+
+We note that the NEXT's r-band magnitude is comparable to that of KAIT 
+in the clear band, although the time interval of the two observations is 
+~10 hr.

@@ -1,0 +1,56 @@
+#DIR survey_GRB220107B
+
+#interval 300
+#filter r2
+#repeat 1
+#binning 1
+T001_GRB220107B_1424+1943	14 24 52	+19 43 12
+
+#interval 300
+#filter r2
+#repeat 1
+#binning 1
+T002_GRB220107B_1424+2000	14 24 52	+20 00 00
+
+#interval 300
+#filter r2
+#repeat 1
+#binning 1
+T003_GRB220107B_1424+2016	14 24 52	+20 16 48
+
+#interval 300
+#filter r2
+#repeat 1
+#binning 1
+T004_GRB220107B_1426+1943	14 26 00	+19 43 12
+
+#interval 300
+#filter r2
+#repeat 1
+#binning 1
+T005_GRB220107B_1426+2000	14 26 00	+20 00 00
+
+#interval 300
+#filter r2
+#repeat 1
+#binning 1
+T006_GRB220107B_1426+2016	14 26 00	+20 16 48
+
+#interval 300
+#filter r2
+#repeat 1
+#binning 1
+T007_GRB220107B_1427+1943	14 27 07	+19 43 12
+
+#interval 300
+#filter r2
+#repeat 1
+#binning 1
+T008_GRB220107B_1427+2000	14 27 07	+20 00 00
+
+#interval 300
+#filter r2
+#repeat 1
+#binning 1
+T009_GRB220107B_1427+2016	14 27 07	+20 16 48
+

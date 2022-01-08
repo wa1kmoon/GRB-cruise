@@ -1,0 +1,72 @@
+#DIR Survey_HAWC220103A
+
+#interval 60
+#repeat 1
+#binning 1
+T10128_1024+0018	10 24 15	+00 18 00
+
+#interval 60
+#repeat 1
+#binning 1
+T10129_1028+0018	10 28 20	+00 18 00
+
+#interval 60
+#repeat 1
+#binning 1
+T10478_1020+0100	10 20 15	+01 00 00
+
+#interval 60
+#repeat 1
+#binning 1
+T10479_1024+0100	10 24 20	+01 00 00
+
+#interval 60
+#repeat 1
+#binning 1
+T10480_1028+0100	10 28 25	+01 00 00
+
+#interval 60
+#repeat 1
+#binning 1
+T10829_1020+0142	10 20 26	+01 42 00
+
+#interval 60
+#repeat 1
+#binning 1
+T10830_1024+0142	10 24 31	+01 42 00
+
+#interval 60
+#repeat 1
+#binning 1
+T10831_1028+0142	10 28 36	+01 42 00
+
+#interval 60
+#repeat 1
+#binning 1
+T11180_1020+0224	10 20 42	+02 24 00
+
+#interval 60
+#repeat 1
+#binning 1
+T11181_1024+0224	10 24 47	+02 24 00
+
+#interval 60
+#repeat 1
+#binning 1
+T11182_1028+0224	10 28 52	+02 24 00
+
+#interval 60
+#repeat 1
+#binning 1
+T11531_1021+0306	10 21 04	+03 06 00
+
+#interval 60
+#repeat 1
+#binning 1
+T11532_1025+0306	10 25 09	+03 06 00
+
+#interval 60
+#repeat 1
+#binning 1
+T11533_1029+0306	10 29 14	+03 06 00
+

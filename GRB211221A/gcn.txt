@@ -1,0 +1,12 @@
+GRB 211221A: Nanshan/NEXT optical upper limit
+
+X. Liu, S.Y. Fu, Z.P. Zhu (NAOC, HUST), S.Q. Jiang, D. Xu (NAOC), X. Gao 
+(Urumqi No.1 Senior High School), J.Z. Liu (XAO) report:
+
+We observed the field of Swift GRB 211221A (Page et al. GCN Circ. 
+31273) using the NEXT-0.6m telescope located at Nanshan, Xinjiang, 
+China. We obtained 10x90 s frames in the Sloan r-band, starting at 
+21:26:30 UT on 2021-12-21, i.e., 0.63 hr after the BAT trigger.
+
+No optical source is detected at the Swift/XRT position in our stacked
+image, down to a limiting magnitude of r~20.2, calibrated with the nearby PanSTARRS field.

@@ -1,0 +1,44 @@
+#DIR GRB211211A
+#SETS 2
+
+#interval 200
+#filter r2
+#repeat 5
+#binning 1
+GRB211211A	14 09 09.9	+27 53 23.6
+
+#interval 200
+#filter z2
+#repeat 1
+#binning 1
+GRB211211A	14 09 09.9	+27 53 23.6
+
+#interval 200
+#filter z2
+#repeat 1
+#binning 1
+GRB211211A	14 09 19.9	+27 53 23.6
+
+#interval 200
+#filter z2
+#repeat 1
+#binning 1
+GRB211211A	14 09 29.9	+27 53 23.6
+
+#interval 200
+#filter z2
+#repeat 1
+#binning 1
+GRB211211A	14 09 29.9	+27 53 33.6
+
+#interval 200
+#filter z2
+#repeat 1
+#binning 1
+GRB211211A	14 09 19.9	+27 53 33.6
+
+#interval 200
+#filter z2
+#repeat 1
+#binning 1
+GRB211211A	14 09 09.9	+27 53 33.6

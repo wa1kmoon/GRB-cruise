@@ -1,0 +1,20 @@
+ GRB211225.550 UT
+
+    Swift trigger number: 1090853
+    GRB time : 13:12:19.10 UT
+    Packet Type : SWIFT_BAT 61
+
+    RA (J2000) = 17:14:16.392 (258.5683)
+    DEC(J2000) = +17:15:45 (17.2625)
+    Error radius = 180.0 arcsec
+    (l, b) = (38.508, 29.009)
+    A_V = 0.23 mag
+    Sun Distance = 43.35 deg
+    Moon Distance = 87.30 deg
+    Moon_Illum = 66.23&percnt;
+
+    Fluence = 9849 counts
+    Peak flux = 347 counts/s
+    Image S/N = 4.096
+    Rate S/N = 13.78
+    Trigger duration = 9.17 s 

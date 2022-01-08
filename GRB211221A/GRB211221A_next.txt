@@ -1,0 +1,13 @@
+#DIR GRB211211A
+
+#interval 60
+#filter r2
+#repeat 15
+#binning 1
+GRB211221A	05 15 35.6	+00 54 51.2
+
+#interval 90
+#filter r2
+#repeat 10
+#binning 1
+GRB211221A	05 15 35.6	+00 54 51.2

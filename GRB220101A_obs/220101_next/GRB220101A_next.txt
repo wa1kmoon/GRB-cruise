@@ -1,0 +1,75 @@
+#DIR GRB220101A
+#SETS 1
+
+#interval 300
+#filter g2
+#repeat 5
+#binning 1
+GRB220101A	00 05 24	+31 46 08
+
+#interval 300
+#filter r2
+#repeat 5
+#binning 1
+GRB220101A	00 05 24	+31 46 08
+
+#interval 300
+#filter i2
+#repeat 1
+#binning 1
+GRB220101A	00 05 05	+31 46 09
+
+#interval 300
+#filter i2
+#repeat 1
+#binning 1
+GRB220101A	00 05 24	+31 42 09
+
+#interval 300
+#filter i2
+#repeat 1
+#binning 1
+GRB220101A	00 05 24	+31 46 09
+
+#interval 300
+#filter i2
+#repeat 1
+#binning 1
+GRB220101A	00 05 24	+31 50 08
+
+#interval 300
+#filter i2
+#repeat 1
+#binning 1
+GRB220101A	00 05 43	+31 46 09
+
+#interval 300
+#filter z2
+#repeat 1
+#binning 1
+GRB220101A	00 05 05	+31 46 09
+
+#interval 300
+#filter z2
+#repeat 1
+#binning 1
+GRB220101A	00 05 24	+31 42 09
+
+#interval 300
+#filter z2
+#repeat 1
+#binning 1
+GRB220101A	00 05 24	+31 46 09
+
+#interval 300
+#filter z2
+#repeat 1
+#binning 1
+GRB220101A	00 05 24	+31 50 08
+
+#interval 300
+#filter z2
+#repeat 1
+#binning 1
+GRB220101A	00 05 43	+31 46 09
+
